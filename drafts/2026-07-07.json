@@ -79,7 +79,7 @@
   "t1_done": "0",
   "t2_done": "0",
   "t3_done": "0",
-  "t4_done": "0",
+  "t4_done": "1",
   "t5_done": "0",
   "t6_done": "0",
   "t7_done": "0",
@@ -99,5 +99,5 @@
   "_ypn": "{}",
   "_eisen": "{}",
   "_taskCount": 11,
-  "_savedAt": 1783372776345
+  "_savedAt": 1783372778111
 }
