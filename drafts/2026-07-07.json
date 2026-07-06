@@ -63,7 +63,7 @@
   "e_note": "",
   "r_energy": "5",
   "r_day": "5",
-  "q10_slider": "5",
+  "q10_slider": "4",
   "e_tmr_main": "",
   "e_tmr_t1": "",
   "e_tmr_t2": "",
@@ -99,5 +99,5 @@
   "_ypn": "{\"q1_status\":\"частично\",\"q9_status\":\"частично\"}",
   "_eisen": "{}",
   "_taskCount": 11,
-  "_savedAt": 1783373281906
+  "_savedAt": 1783373283663
 }
