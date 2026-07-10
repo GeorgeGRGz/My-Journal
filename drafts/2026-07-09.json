@@ -97,8 +97,8 @@
   "t19_done": "0",
   "t20_done": "0",
   "_ypn": "{}",
-  "_eisen": "{}",
+  "_eisen": "{\"t2\":\"A\"}",
+  "_subtasks": "{}",
   "_taskCount": 5,
-  "_savedAt": 1783393163979,
-  "_carriedOver": true
+  "_savedAt": 1783676271448
 }
